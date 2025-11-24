@@ -2,7 +2,7 @@
 
 <h3> <b> 
   Descrição do projeto:
-<br/> </h3>
+</h3>
 - Este repositório foi criado para registrar a documentação do desenvolvimento de um agente no Microsoft Azure Foundry.
 
 
